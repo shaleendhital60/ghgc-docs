@@ -3,7 +3,7 @@ title: "U.S. Greenhouse Gas Center: Data Usage Notebooks"
 ---
 
 Welcome to the [U.S. Greenhouse Gas (GHG) Center](https://earth.gov/ghgcenter) data usage notebooks, your gateway to exploring and analyzing curated datasets on greenhouse gas emissions.
-Our cloud-based system offers seamless access to GHG curated datasets. Dive into the data with our data usage Jupyter notebooks, which demonstrate how to explore, access, visualize, and conduct basic data analysis for each GHG Center dataset in a code notebook environment. The data usage notebooks are grouped topically. Click on a notebook to learn more about the dataset and to view the data usage code.
+Our cloud-based system offers seamless access to GHG-curated datasets. Dive into the data with our data usage Jupyter notebooks, which demonstrate how to explore, access, visualize, and conduct basic data analysis for each GHG Center dataset in a code notebook environment. The data usage notebooks are grouped topically. Click on a notebook to learn more about the dataset and to view the data usage code.
 
 Join us in our mission to make data-driven environmental solutions.
 Explore, analyze, and make a difference with the US GHG Center.
